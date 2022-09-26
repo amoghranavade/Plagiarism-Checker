@@ -1,4 +1,4 @@
-#Plagiarism Checker Python Application
+# Plagiarism Checker Python Application
 
 This is a plagiarism checker app made in python using `TfidfVectorizer` from `sklearn` library.  
 It is a UI based application with the help of `tkinter library`.  
